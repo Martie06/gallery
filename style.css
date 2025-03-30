@@ -157,6 +157,11 @@ ul {
   width: 100%;
 }
 
+.bordered-image {
+    outline: 5px solid blue;
+}
+
+
 /* On screens that are 600px or less, set the background color to olive */
 @media screen and (max-width: 992px) {
   h1 {
